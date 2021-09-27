@@ -1,0 +1,22 @@
+Student: Paxton Proctor
+Eduardo Colmenares- id:1
+Catherine Stringfellow- id:2
+Tina Johnson- id:3
+Terry Griffin- id:4
+------------------------------
+After Removing from the Head 
+Catherine Stringfellow- id:2
+Tina Johnson- id:3
+Terry Griffin- id:4
+------------------------------
+After Removing from the tail 
+Catherine Stringfellow- id:2
+Tina Johnson- id:3
+------------------------------
+Catherine
+Tina
+------------------------------
+Catherine Stringfellow- id:2
+Tina Johnson- id:3
+Nelson Passos- id:5
+------------------------------
