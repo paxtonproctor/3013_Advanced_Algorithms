@@ -1,2 +1,2 @@
 # 3013_Advanced_Algorithms
-Program assignments posted here
+C++ Program Assignments involving Link list, Stacks, Queues, Binary Trees, Many Algorithms, Big O notation and more!
